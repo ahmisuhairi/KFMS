@@ -1,0 +1,6 @@
+{
+  "name": "KFMS Perlis - KEMAS Fleet Management System",
+  "description": "Sistem Pengurusan & Penugasan Kenderaan Jabatan Kemajuan Masyarakat (KEMAS) Negeri Perlis dengan kawalan peranan RBAC, pencegahan pertindihan jadual (collision prevention), penjanaan PDF Arahan Memandu rasmi, dan integrasi Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
